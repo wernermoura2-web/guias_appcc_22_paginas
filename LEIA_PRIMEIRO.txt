@@ -16,3 +16,4 @@ As versões individual e equipe do arquivo enviado têm o mesmo formulário e as
 O site hospeda os formulários; não armazena inspeções no GitHub. Salve o JSON antes de sair. Rascunhos de arquivos content:// não migram automaticamente: abra seu JSON no site. Este pacote não oferece instalação offline; o atalho da tela inicial abre o site.
 
 Este pacote usa exatamente os PDFs presentes no ZIP enviado. Não é uma revisão dos PDFs nem uma aplicação das contribuições APPCC ainda em revisão.
+Atualização da publicação em 06/10/2026.
